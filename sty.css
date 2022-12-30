@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+ 
+  }
+  .hero {
+	height: 100%;
+	width: 100%;
+	background-image: url(https://coolbackgrounds.io/images/backgrounds/index/compute-ea4c57a4.png); 
+	background-size: cover;
+	background-position: center;
+    /* background: rgba(12, 12, 199, 0.185); */
+    
+}
+  
+ 
